@@ -33,4 +33,4 @@ function vowelCount(sentence){
 
 }
 
-document.getElementById("demo101").innerHTML=vowelCount("I hate JavaScript Language");
+document.getElementById("demo101").innerHTML=vowelCount("1 2 3 I hate JavaScript Language");
